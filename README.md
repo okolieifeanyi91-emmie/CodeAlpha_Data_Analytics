@@ -70,7 +70,15 @@ I created the following visualizations using Matplotlib and Seaborn:
 - `chart2_avg_price_by_rating.png`
 - `chart3_price_distribution.png`
 - `chart4_price_boxplot.png`
+- 
+## Task 4: Sentiment Analysis
+I performed Sentiment Analysis on book reviews using the **TextBlob** library.
 
+**What I did:**
+- Analyzed multiple book reviews
+- Calculated polarity scores
+- Classified each review as **Positive**, **Negative**, or **Neutral**
+- Generated a summary of the sentiment results
 ---
 
 ## How to Run the Project

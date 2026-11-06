@@ -71,7 +71,7 @@ I created the following visualizations using Matplotlib and Seaborn:
 - `chart2_avg_price_by_rating.png`
 - `chart3_price_distribution.png`
 - `chart4_price_boxplot.png`
-- 
+  
 ## Task 4: Sentiment Analysis
 I performed Sentiment Analysis on book reviews using the **TextBlob** library.
 

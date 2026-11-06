@@ -8,6 +8,7 @@ It currently covers:
 - **Task 2: Exploratory Data Analysis (EDA)**
 - **Task 3: Data Visualization**
 - **Task 4: Sentiment Analysis**
+  
 I scraped book data from an online bookstore, performed exploratory analysis, and created clear visualizations.
 
 ---
